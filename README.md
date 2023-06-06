@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @KurNG
+- 👀 I’m interested in IT & Cybersecurity...
+- 🌱 I’m currently learning Python , active directory and ...
+- 📫 How to reach me LinkedIn same @  ...
+
+<!---
+KurNG/KurNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
